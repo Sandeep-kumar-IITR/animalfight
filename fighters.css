@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: goldenrod;
+  margin-top: 100px;
+}
+
+
+button {
+  background: goldenrod;
+  width: 250px;
+  border: none;
+  border-radius: 15px;
+  padding: 5px 5px;
+  font-weight: bold;
+  font-size: 30px;
+  color:white;
+  margin-top: 100px;
+}
+
+button:hover {
+  border: 2px solid skyblue;
+}
+
+#stage {
+  margin-top: 100px;
+  font-size: 50px;
+}
